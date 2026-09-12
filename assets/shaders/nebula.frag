@@ -1,1 +1,0 @@
-precision mediump float; uniform float u_time; uniform vec2 u_resolution; uniform float u_intensity; varying vec2 v_uv; void main(){vec2 p=v_uv-.5;float d=length(p);float a=smoothstep(.7,.05,d);float wave=.5+.5*sin(u_time+p.x*8.0);vec3 c=mix(vec3(.15,.02,.3),vec3(.45,.18,.95),wave);gl_FragColor=vec4(c*a*.22*u_intensity,.28*u_intensity);}
