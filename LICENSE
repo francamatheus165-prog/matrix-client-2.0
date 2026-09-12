@@ -1,0 +1,67 @@
+MATRIX CLIENT 2.0 LICENSE
+Copyright (c) 2026 MathPRIME / Matrix Client contributors.
+
+1. COVERAGE
+This license applies only to original Matrix source code, Matrix-created
+artwork, original shader source, configuration and other material authored for
+this repository.
+
+2. RIGHTS
+Permission is granted to use, copy, modify and redistribute covered material
+provided this notice remains with substantial copies.
+
+3. BRANDING
+This license does not grant the right to represent a modified distribution as
+the official Matrix Client 2.0 release. The Matrix name, logos, badges and
+original project artwork may be protected separately.
+
+4. THIRD-PARTY MATERIAL
+Third-party software, services, fonts, game assets, trademarks, repositories
+and remote URLs are not automatically covered by this license. Their own terms
+continue to apply.
+
+5. MINEFUN
+MineFun.io and related marks remain the property of their respective owners.
+Matrix Client 2.0 is an independent third-party client-side project.
+
+6. SECURITY AND ACCESS
+This license does not authorize bypassing authentication, accessing private
+accounts or data, obtaining credentials, defeating access controls, or
+interfering with systems beyond normal browser-side operation.
+
+7. PLATFORM RULES
+Users remain responsible for platform, server, community and applicable legal
+rules.
+
+8. COMPATIBILITY
+Features depending on browser APIs or exposed MineFun client structures may stop
+working when those structures change.
+
+9. REMOTE ASSETS
+A URL that works today may be moved, deleted, replaced or blocked tomorrow.
+The project does not promise permanent remote availability.
+
+10. WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NON-INFRINGEMENT OR CONTINUOUS AVAILABILITY.
+
+11. LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, AUTHORS AND CONTRIBUTORS ARE NOT LIABLE
+FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, LOSS OF
+DATA, LOSS OF PROFITS OR LOSS OF ACCESS ARISING FROM USE OR INABILITY TO USE.
+
+12. MODIFIED COPIES
+A modified copy must clearly be distinguishable from the official release if
+distributed publicly.
+
+13. RESERVATION
+All rights not expressly granted remain reserved.
+
+14. SMALL PRINT
+*Compatibility is not guaranteed after third-party updates.*
+*External assets are not guaranteed to remain online.*
+*Feature availability depends on what the current MineFun browser client exposes.*
+*The project may change module names, paths, UI details and distribution URLs
+without notice.*
+*No affiliation with MineFun.io or unrelated client projects is implied.*
