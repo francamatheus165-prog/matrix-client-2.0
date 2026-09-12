@@ -1,0 +1,1 @@
+precision mediump float; uniform float u_intensity; varying vec2 v_uv; void main(){float line=.5+.5*sin(v_uv.y*900.0);gl_FragColor=vec4(vec3(line*.08*u_intensity),.22*u_intensity);}
