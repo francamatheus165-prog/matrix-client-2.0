@@ -1,0 +1,70 @@
+MATRIX CLIENT 2.0 PROJECT LICENSE
+
+Copyright (c) 2026 MathPRIME / Matrix Client contributors.
+
+1. SCOPE
+This license applies to original Matrix Client 2.0 source code, original
+Matrix artwork, original badge artwork, original shader source and original
+project configuration included in this repository.
+
+2. PERMISSION
+Permission is granted to use, copy, modify and redistribute covered material,
+provided this notice and license remain with substantial copies.
+
+3. BRANDING
+This license does not grant permission to represent a modified distribution as
+the official unmodified Matrix Client 2.0 release. The Matrix Client name,
+logos, badges and original project artwork may be protected separately.
+
+4. THIRD-PARTY MATERIAL
+Third-party code, services, game assets, fonts, trademarks, repositories and
+remote URLs are not automatically licensed by this document. Their respective
+licenses remain applicable.
+
+5. MINEFUN
+MINEFUN.IO and related marks belong to their respective owners. Matrix Client
+2.0 is an independent client-side userscript.
+
+6. SECURITY
+Nothing in this license authorizes bypassing authentication, accessing private
+accounts or data, obtaining credentials, defeating access controls or
+interfering with systems outside normal client-side browser operation.
+
+7. PLATFORM RULES
+Users remain responsible for platform, server, community and applicable legal
+rules while using this software.
+
+8. COMPATIBILITY
+Browser APIs and third-party game internals may change without notice.
+
+9. REMOTE CONTENT
+External or repository URLs may be moved, deleted, replaced or blocked.
+Permanent availability is not guaranteed.
+
+10. WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NON-INFRINGEMENT OR CONTINUOUS AVAILABILITY.
+
+11. LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, AUTHORS AND CONTRIBUTORS SHALL NOT BE
+LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES,
+LOSS OF DATA, LOSS OF PROFITS, LOSS OF ACCESS OR OTHER DAMAGES ARISING FROM
+USE OR INABILITY TO USE THE SOFTWARE.
+
+12. MODIFIED BUILDS
+Modified public distributions must not falsely claim to be the official
+unmodified Matrix Client 2.0 release.
+
+13. SMALL PRINT
+*Compatibility is not guaranteed after third-party updates.*
+*Feature availability depends on what the current MineFun build exposes.*
+*Remote assets may be changed or removed.*
+*The project may change module names, assets, UI details or distribution URLs
+without notice.*
+*No affiliation with MineFun.io or unrelated client projects is implied.*
+
+14. RESERVATION
+All rights not expressly granted remain reserved.
+
+END OF LICENSE.

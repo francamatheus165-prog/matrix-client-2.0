@@ -1,0 +1,11 @@
+{
+  "version": "2.6.0",
+  "packs": {
+    "matrix": {
+      "preview": "assets/textures/matrix-preview.svg"
+    },
+    "prime": {
+      "preview": "assets/textures/prime-preview.svg"
+    }
+  }
+}
